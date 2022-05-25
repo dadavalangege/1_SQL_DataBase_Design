@@ -1,5 +1,4 @@
-# Base-de-dades
-S17_T01
+# SQL_DataBase_Design
 
 Nota previa: Para los diagramas de los primeros dos ejercicios hemos seguido la notación presente en: https://www.youtube.com/watch?v=-LrUJR0G_6g&list=PLs1sXiNvW4OyJCZs5WR3OjPZTlIqNcvQi&index=14 
 
